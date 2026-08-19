@@ -8,7 +8,6 @@ image: jbw1204/cohortredux
 env:
   secret:
     - RAILS_MASTER_KEY
-    - KAMAL_REGISTRY_PASSWORD
 
 # Deploy to these servers.
 servers:
